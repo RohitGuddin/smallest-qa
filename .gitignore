@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Secrets and local config
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
